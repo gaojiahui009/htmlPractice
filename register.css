@@ -8,6 +8,7 @@ main{
     text-align: center;
 }
 .register-group{
+    background-color: white;
     width: 500px;
     border: 2px solid black;
     border-radius: 5px;
@@ -20,6 +21,13 @@ main{
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.btn{
+    width: 150px;
+    padding: 5px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 .link{
     text-align: center;
