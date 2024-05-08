@@ -1,0 +1,30 @@
+body{
+    background-color: burlywood;
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+.login-group{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.input-group{
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+.btn{
+    width: 150px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+}

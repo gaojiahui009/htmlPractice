@@ -1,0 +1,26 @@
+body{
+    background-color: darkgray;
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+.register-group{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+.input-group{
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.link{
+    text-align: center;
+}
